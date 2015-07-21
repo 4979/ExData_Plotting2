@@ -1,7 +1,7 @@
-Course Project by "Prabhat Kumar" on "18 July 2015".
+Course Project by "Prabhat Kumar" on "21 July 2015".
 
 # ExData_Plotting2
-Plotting Assignment 2 for Exploratory Data Analysis
+Plotting Assignment 2 for Exploratory Data Analysis.
 
 ### Introduction
 
@@ -79,3 +79,7 @@ For each plot you should
 * Upload the PNG file on the Assignment submission page
 
 * Copy and paste the R code from the corresponding R file into the text box at the appropriate point in the peer assessment.
+
+
+Many Thanks,
+Prabhat Kumar.
