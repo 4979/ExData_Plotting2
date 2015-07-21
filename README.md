@@ -1,3 +1,5 @@
+Course Project by "Prabhat Kumar" on "18 July 2015".
+
 # ExData_Plotting2
 Plotting Assignment 2 for Exploratory Data Analysis
 
